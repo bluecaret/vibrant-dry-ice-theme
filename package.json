@@ -1,8 +1,13 @@
 {
-  "name": "vibrant-dry-ice-theme",
-  "displayName": "Vibrant Dry Ice",
-  "description": "Light theme with vibrant, bright text colors.",
+  "name": "dry-ice-theme",
+  "displayName": "Dry Ice",
+  "description": "Light theme with a pleasant minimal gray UI colors.",
+  "keywords": [
+    "light"
+  ],
   "version": "0.0.1",
+  "publisher": "bluecaret",
+  "repository": "https://github.com/bluecaret/vscode-theme-dry-ice",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -12,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vibrant Dry Ice Theme",
+        "label": "Dry Ice Theme",
         "uiTheme": "vs",
-        "path": "./themes/vibrant-dry-ice-light-theme.json"
+        "path": "./themes/dry-ice-light-theme.json"
       }
     ]
   }
