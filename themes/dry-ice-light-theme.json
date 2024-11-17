@@ -1,5 +1,6 @@
 {
-  "name": "Dry Ice",
+  "$schema": "https://raw.githubusercontent.com/wraith13/vscode-schemas/refs/heads/master/en/v1.47.3/schemas/color-theme.json",
+  "name": "Dry Ice Light",
   "type": "light",
   "semanticHighlighting": true,
   "colors": {
@@ -202,9 +203,12 @@
     "editor.focusedStackFrameHighlightBackground": "#28a74525",
     "settings.headerForeground": "#2f363d",
     "settings.modifiedItemIndicator": "#2188ff",
-    "welcomePage.background": "#f6f8fa",
-    "welcomePage.buttonBackground": "#f6f8fa",
-    "welcomePage.buttonHoverBackground": "#e1e4e8",
+    "welcomePage.background": "#e1e4e8",
+    "welcomePage.tileBackground": "#f6f8fa",
+    "welcomePage.tileHoverBackground": "#e8edf1",
+    "welcomePage.tileBorder": "#f6f8fa",
+    "welcomePage.progress.background": "#f6f8fa",
+    "welcomePage.progress.foreground": "#2188ff",
     "scmGraph.historyItemRefColor": "#96c7ff",
     "scmGraph.historyItemRemoteRefColor": "#e3c4ff",
     "scmGraph.historyItemBaseRefColor": "#d2ffd6"

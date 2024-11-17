@@ -17,9 +17,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dry Ice Theme",
+        "label": "Dry Ice Light Theme",
         "uiTheme": "vs",
         "path": "./themes/dry-ice-light-theme.json"
+      },
+      {
+        "label": "Dry Ice Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dry-ice-dark-theme.json"
       }
     ]
   }
